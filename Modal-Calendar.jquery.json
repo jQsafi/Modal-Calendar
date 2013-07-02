@@ -1,27 +1,33 @@
 {
-  "name": "Modal Calendar",
-  "title": "jQuery Modal Calendar",
-  "description": "Interactive jQuery Calendar.",
-  "keywords": [
-    "jquery",
-    "calendar",
-    "plugins",
-    "Interactive"
-  ],
-  "version": "1.0.1",
-  "author": {
-    "name": "Shafayat Hossain",
-    "url": "https://github.com/amishafayat"
-  },
-  "maintainers": [
-    {
-      "name": "Shafayat Hossain",
-      "url": "https://github.com/amishafayat/Modal-Calendar"
+    "name": "Modal-Calendar",
+    "title": "jQuery Modal Calendar",
+    "description": "Interactive jQuery Calendar.",
+    "keywords": [
+        "jquery",
+        "calendar",
+        "plugins",
+        "Interactive"
+    ],
+    "version": "1.0.1",
+    "author": {
+        "name": "Shafayat Hossain",
+        "url": "https://github.com/amishafayat"
+    },
+    "maintainers": [
+        {
+            "name": "Shafayat Hossain",
+            "url": "https://github.com/amishafayat/Modal-Calendar"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery/edit/master/MIT-LICENSE.txt"
+        }
+    ],
+    "docs": "https://github.com/amishafayat/Modal-Calendar/blob/master/README.md",
+    "download": "https://github.com/amishafayat/Modal-Calendar/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.6.2"
     }
-  ],
-  "docs": "https://github.com/amishafayat/Modal-Calendar/blob/master/README.md",
-  "download": "https://github.com/amishafayat/Modal-Calendar/archive/master.zip",
-  "dependencies": {
-    "jquery": ">=jquery-1.6.2"
-  }
 }
